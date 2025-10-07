@@ -1,0 +1,317 @@
+EmployeeID,EmployeeName,Gender,BirthDate,HireDate,MaritalStatus,JobTitle,DepartmentName,ShiftName,StartTime,EndTime,Salary,RateChangeDate,YearsOfExperience,Age,ShiftDuration,SalaryLevel,JobCategory
+1,Ken Sánchez,M,1969-01-29,2009-01-14,S,Chief Executive Officer,Executive,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,125.5,2009-01-14,16,56,8.0,High,Executive / Leadership
+2,Terri Duffy,F,1971-08-01,2008-01-31,S,Vice President of Engineering,Engineering,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,63.4615,2008-01-31,17,54,8.0,High,Executive / Leadership
+3,Roberto Tamburello,M,1974-11-12,2007-11-11,M,Engineering Manager,Engineering,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,43.2692,2007-11-11,18,51,8.0,High,Management / Supervisory
+4,Rob Walters,M,1974-12-23,2007-12-05,S,Senior Tool Designer,Tool Design,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,8.62,2007-12-05,18,51,8.0,Low,Engineering / Technical
+4,Rob Walters,M,1974-12-23,2007-12-05,S,Senior Tool Designer,Tool Design,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.72,2010-05-31,18,51,8.0,High,Engineering / Technical
+4,Rob Walters,M,1974-12-23,2007-12-05,S,Senior Tool Designer,Tool Design,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,29.8462,2011-12-15,18,51,8.0,High,Engineering / Technical
+5,Gail Erickson,F,1952-09-27,2008-01-06,M,Design Engineer,Engineering,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,32.6923,2008-01-06,17,73,8.0,High,Engineering / Technical
+6,Jossef Goldberg,M,1959-03-11,2008-01-24,M,Design Engineer,Engineering,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,32.6923,2008-01-24,17,66,8.0,High,Engineering / Technical
+7,Dylan Miller,M,1987-02-24,2009-02-08,M,Research and Development Manager,Research and Development,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,50.4808,2009-02-08,16,38,8.0,High,Management / Supervisory
+8,Diane Margheim,F,1986-06-05,2008-12-29,S,Research and Development Engineer,Research and Development,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,40.8654,2008-12-29,17,39,8.0,High,Engineering / Technical
+9,Gigi Matthew,F,1979-01-21,2009-01-16,M,Research and Development Engineer,Research and Development,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,40.8654,2009-01-16,16,46,8.0,High,Engineering / Technical
+10,Michael Raheem,M,1984-11-30,2009-05-03,M,Research and Development Manager,Research and Development,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,42.4808,2009-05-03,16,41,8.0,High,Management / Supervisory
+11,Ovidiu Cracium,M,1978-01-17,2010-12-05,S,Senior Tool Designer,Tool Design,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,28.8462,2010-12-05,15,47,8.0,High,Engineering / Technical
+12,Thierry D'Hers,M,1959-07-29,2007-12-11,M,Tool Designer,Tool Design,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,25.0,2007-12-11,18,66,8.0,High,Engineering / Technical
+13,Janice Galvin,F,1989-05-28,2010-12-23,M,Tool Designer,Tool Design,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,25.0,2010-12-23,15,36,8.0,High,Engineering / Technical
+14,Michael Sullivan,M,1979-06-16,2010-12-30,S,Senior Design Engineer,Engineering,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,36.0577,2010-12-30,15,46,8.0,High,Engineering / Technical
+15,Sharon Salavaria,F,1961-05-02,2011-01-18,M,Design Engineer,Engineering,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,32.6923,2011-01-18,14,64,8.0,High,Engineering / Technical
+16,David Bradley,M,1975-03-19,2007-12-20,S,Marketing Manager,Marketing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,24.0,2007-12-20,18,50,8.0,High,Management / Supervisory
+16,David Bradley,M,1975-03-19,2007-12-20,S,Marketing Manager,Marketing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,28.75,2009-07-15,18,50,8.0,High,Management / Supervisory
+16,David Bradley,M,1975-03-19,2007-12-20,S,Marketing Manager,Marketing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,37.5,2012-04-30,18,50,8.0,High,Management / Supervisory
+17,Kevin Brown,M,1987-05-03,2007-01-26,S,Marketing Assistant,Marketing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.4615,2007-01-26,18,38,8.0,Medium,Sales / Marketing
+18,John Wood,M,1978-03-06,2011-02-07,S,Marketing Specialist,Marketing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.4231,2011-02-07,14,47,8.0,Medium,Sales / Marketing
+19,Mary Dempsey,F,1978-01-29,2011-02-14,S,Marketing Assistant,Marketing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.4615,2011-02-14,14,47,8.0,Medium,Sales / Marketing
+20,Wanida Benshoof,F,1975-03-17,2011-01-07,M,Marketing Assistant,Marketing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.4615,2011-01-07,14,50,8.0,Medium,Sales / Marketing
+21,Terry Eminhizer,M,1986-02-04,2009-03-02,M,Marketing Specialist,Marketing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.4231,2009-03-02,16,39,8.0,Medium,Sales / Marketing
+22,Sariya Harnpadoungsataya,M,1987-05-21,2008-12-12,S,Marketing Specialist,Marketing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.4231,2008-12-12,17,38,8.0,Medium,Sales / Marketing
+23,Mary Gibson,F,1962-09-13,2009-01-12,M,Marketing Specialist,Marketing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.4231,2009-01-12,16,63,8.0,Medium,Sales / Marketing
+24,Jill Williams,F,1979-06-18,2009-01-18,M,Marketing Specialist,Marketing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.4231,2009-01-18,16,46,8.0,Medium,Sales / Marketing
+25,James Hamilton,M,1983-01-07,2009-02-03,S,Vice President of Production,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,84.1346,2009-02-03,16,42,8.0,High,Executive / Leadership
+26,Peter Krebs,M,1982-11-03,2008-12-01,M,Production Control Manager,Production Control,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,24.5192,2008-12-01,17,43,8.0,High,Management / Supervisory
+27,Jo Brown,F,1956-10-08,2008-02-27,S,Production Supervisor - WC60,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,25.0,2008-02-27,17,69,8.0,High,Management / Supervisory
+28,Guy Gilbert,M,1988-03-13,2006-06-30,M,Production Technician - WC60,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.45,2006-06-30,19,37,8.0,Low,Production / Manufacturing
+29,Mark McArthur,M,1979-09-25,2009-01-23,S,Production Technician - WC60,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.45,2009-01-23,16,46,8.0,Low,Production / Manufacturing
+30,Britta Simon,F,1989-09-28,2009-01-29,M,Production Technician - WC60,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.45,2009-01-29,16,36,8.0,Low,Production / Manufacturing
+31,Margie Shoop,F,1986-05-20,2009-01-04,M,Production Technician - WC60,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.45,2009-01-04,16,39,8.0,Low,Production / Manufacturing
+32,Rebecca Laszlo,F,1977-07-10,2008-12-29,M,Production Technician - WC60,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.45,2008-12-29,17,48,8.0,Low,Production / Manufacturing
+33,Annik Stahl,M,1976-12-26,2008-12-17,M,Production Technician - WC60,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.45,2008-12-17,17,49,8.0,Low,Production / Manufacturing
+34,Suchitra Mohan,F,1987-06-10,2009-02-16,M,Production Technician - WC60,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.45,2009-02-16,16,38,8.0,Low,Production / Manufacturing
+35,Brandon Heidepriem,M,1977-01-10,2009-02-08,M,Production Technician - WC60,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.45,2009-02-08,16,48,8.0,Low,Production / Manufacturing
+36,Jose Lugo,M,1984-07-31,2009-02-10,M,Production Technician - WC60,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.45,2009-02-10,16,41,8.0,Low,Production / Manufacturing
+37,Chris Okelberry,M,1986-08-07,2009-03-07,S,Production Technician - WC60,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.45,2009-03-07,16,39,8.0,Low,Production / Manufacturing
+38,Kim Abercrombie,F,1966-12-14,2010-01-16,M,Production Technician - WC60,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.45,2010-01-16,15,59,8.0,Low,Production / Manufacturing
+39,Ed Dudenhoefer,M,1971-09-11,2010-02-05,S,Production Technician - WC60,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.45,2010-02-05,15,54,8.0,Low,Production / Manufacturing
+40,JoLynn Dobney,F,1956-01-16,2007-12-26,S,Production Supervisor - WC60,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,25.0,2007-12-26,18,69,-16.0,High,Management / Supervisory
+41,Bryan Baker,M,1973-08-27,2009-01-21,S,Production Technician - WC60,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,12.45,2009-01-21,16,52,-16.0,Low,Production / Manufacturing
+42,James Kramer,M,1984-07-25,2008-12-27,M,Production Technician - WC60,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,12.45,2008-12-27,17,41,-16.0,Low,Production / Manufacturing
+43,Nancy Anderson,F,1988-11-19,2009-01-02,M,Production Technician - WC60,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,12.45,2009-01-02,16,37,-16.0,Low,Production / Manufacturing
+44,Simon Rapier,M,1990-05-17,2008-12-08,S,Production Technician - WC60,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,12.45,2008-12-08,17,35,-16.0,Low,Production / Manufacturing
+45,Thomas Michaels,M,1986-01-10,2009-02-26,M,Production Technician - WC60,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,12.45,2009-02-26,16,39,-16.0,Low,Production / Manufacturing
+46,Eugene Kogan,M,1976-02-10,2009-02-08,S,Production Technician - WC60,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,12.45,2009-02-08,16,49,-16.0,Low,Production / Manufacturing
+47,Andrew Hill,M,1988-09-06,2009-02-22,S,Production Supervisor - WC10,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,25.0,2009-02-22,16,37,8.0,High,Management / Supervisory
+48,Ruth Ellerbrock,F,1956-06-04,2008-01-06,M,Production Technician - WC10,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.45,2008-01-06,17,69,8.0,Medium,Production / Manufacturing
+49,Barry Johnson,M,1956-03-26,2008-01-07,S,Production Technician - WC10,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.45,2008-01-07,17,69,8.0,Medium,Production / Manufacturing
+50,Sidney Higa,M,1956-08-30,2008-02-02,M,Production Technician - WC10,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.45,2008-02-02,17,69,8.0,Medium,Production / Manufacturing
+51,Jeffrey Ford,M,1956-07-11,2008-02-20,S,Production Technician - WC10,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.45,2008-02-20,17,69,8.0,Medium,Production / Manufacturing
+52,Doris Hartwig,F,1956-04-04,2008-03-10,M,Production Technician - WC10,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.45,2008-03-10,17,69,8.0,Medium,Production / Manufacturing
+53,Diane Glimp,F,1956-03-29,2008-03-28,M,Production Technician - WC10,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.45,2008-03-28,17,69,8.0,Medium,Production / Manufacturing
+54,Bonnie Kearney,F,1986-09-10,2010-01-01,M,Production Technician - WC10,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.45,2010-01-01,15,39,8.0,Medium,Production / Manufacturing
+55,Taylor Maxwell,M,1956-04-01,2008-02-08,M,Production Supervisor - WC50,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,25.0,2008-02-08,17,69,-16.0,High,Management / Supervisory
+56,Denise Smith,F,1988-07-06,2009-02-05,M,Production Technician - WC50,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,11.0,2009-02-05,16,37,-16.0,Low,Production / Manufacturing
+57,Frank Miller,M,1971-07-24,2009-02-23,S,Production Technician - WC50,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,11.0,2009-02-23,16,54,-16.0,Low,Production / Manufacturing
+58,Kendall Keil,M,1986-05-30,2008-12-05,M,Production Technician - WC50,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,11.0,2008-12-05,17,39,-16.0,Low,Production / Manufacturing
+59,Bob Hohman,M,1979-08-16,2008-12-24,S,Production Technician - WC50,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,11.0,2008-12-24,17,46,-16.0,Low,Production / Manufacturing
+60,Pete Male,M,1977-02-03,2009-01-11,S,Production Technician - WC50,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,11.0,2009-01-11,16,48,-16.0,Low,Production / Manufacturing
+61,Diane Tibbott,F,1989-08-09,2009-01-18,S,Production Technician - WC50,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,11.0,2009-01-18,16,36,-16.0,Low,Production / Manufacturing
+62,John Campbell,M,1956-08-07,2008-03-17,M,Production Supervisor - WC60,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,25.0,2008-03-17,17,69,8.0,High,Management / Supervisory
+63,Maciej Dusza,M,1955-01-30,2010-01-29,S,Production Technician - WC60,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,12.45,2010-01-29,15,70,8.0,Low,Production / Manufacturing
+64,Michael Zwilling,M,1973-09-05,2010-02-23,S,Production Technician - WC60,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,12.45,2010-02-23,15,52,8.0,Low,Production / Manufacturing
+65,Randy Reeves,M,1970-04-28,2010-02-23,M,Production Technician - WC60,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,12.45,2010-02-23,15,55,8.0,Low,Production / Manufacturing
+66,Karan Khanna,M,1970-03-07,2009-12-22,S,Production Technician - WC60,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,12.45,2009-12-22,16,55,8.0,Low,Production / Manufacturing
+67,Jay Adams,M,1976-02-11,2009-03-05,S,Production Technician - WC60,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,12.45,2009-03-05,16,49,8.0,Low,Production / Manufacturing
+68,Charles Fitzgerald,M,1971-09-02,2009-12-03,S,Production Technician - WC60,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,12.45,2009-12-03,16,54,8.0,Low,Production / Manufacturing
+69,Steve Masters,M,1991-04-06,2009-02-15,S,Production Technician - WC60,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,12.45,2009-02-15,16,34,8.0,Low,Production / Manufacturing
+70,David Ortiz,M,1984-12-29,2008-12-15,M,Production Technician - WC60,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,12.45,2008-12-15,17,41,8.0,Low,Production / Manufacturing
+71,Michael Ray,M,1989-01-29,2009-02-15,S,Production Supervisor - WC30,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,25.0,2009-02-15,16,36,-16.0,High,Management / Supervisory
+72,Steven Selikoff,M,1977-05-14,2008-12-01,M,Production Technician - WC30,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,9.5,2008-12-01,17,48,-16.0,Low,Production / Manufacturing
+73,Carole Poland,F,1983-10-19,2008-12-19,M,Production Technician - WC30,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,9.5,2008-12-19,17,42,-16.0,Low,Production / Manufacturing
+74,Bjorn Rettig,M,1989-11-06,2009-01-07,S,Production Technician - WC30,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,9.5,2009-01-07,16,36,-16.0,Low,Production / Manufacturing
+75,Michiko Osada,M,1982-06-27,2009-01-26,S,Production Technician - WC30,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,9.5,2009-01-26,16,43,-16.0,Low,Production / Manufacturing
+76,Carol Philips,F,1988-10-17,2009-02-12,M,Production Technician - WC30,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,9.5,2009-02-12,16,37,-16.0,Low,Production / Manufacturing
+77,Merav Netz,F,1983-05-13,2009-03-03,M,Production Technician - WC30,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,9.5,2009-03-03,16,42,-16.0,Low,Production / Manufacturing
+78,Reuben D'sa,M,1987-08-27,2008-12-15,M,Production Supervisor - WC40,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,25.0,2008-12-15,17,38,8.0,High,Management / Supervisory
+79,Eric Brown,M,1966-12-08,2010-01-24,M,Production Technician - WC40,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,15.0,2010-01-24,15,59,8.0,Medium,Production / Manufacturing
+80,Sandeep Kaliyath,M,1970-12-03,2010-01-17,S,Production Technician - WC40,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,15.0,2010-01-17,15,55,8.0,Medium,Production / Manufacturing
+81,Mihail Frintu,M,1971-03-09,2009-12-29,S,Production Technician - WC40,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,15.0,2009-12-29,16,54,8.0,Medium,Production / Manufacturing
+82,Jack Creasey,M,1973-08-29,2010-03-03,S,Production Technician - WC40,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,15.0,2010-03-03,15,52,8.0,Medium,Production / Manufacturing
+83,Patrick Cook,M,1973-12-23,2010-02-12,M,Production Technician - WC40,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,15.0,2010-02-12,15,52,8.0,Medium,Production / Manufacturing
+84,Frank Martinez,M,1952-03-02,2010-02-05,M,Production Technician - WC40,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,15.0,2010-02-05,15,73,8.0,Medium,Production / Manufacturing
+85,Brian Goldstein,M,1970-12-23,2009-12-11,S,Production Technician - WC40,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,15.0,2009-12-11,16,55,8.0,Medium,Production / Manufacturing
+86,Ryan Cornelsen,M,1972-06-13,2009-01-05,M,Production Technician - WC40,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,15.0,2009-01-05,16,53,8.0,Medium,Production / Manufacturing
+87,Cristian Petculescu,M,1984-04-11,2008-12-22,M,Production Supervisor - WC10,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,25.0,2008-12-22,17,41,-16.0,High,Management / Supervisory
+88,Betsy Stadick,F,1966-12-17,2009-12-18,S,Production Technician - WC10,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,13.45,2009-12-18,16,59,-16.0,Medium,Production / Manufacturing
+89,Patrick Wedge,M,1986-09-10,2010-02-01,S,Production Technician - WC10,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,13.45,2010-02-01,15,39,-16.0,Medium,Production / Manufacturing
+90,Danielle Tiedt,F,1986-09-07,2010-02-20,S,Production Technician - WC10,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,13.45,2010-02-20,15,39,-16.0,Medium,Production / Manufacturing
+91,Kimberly Zimmerman,F,1986-09-13,2010-01-12,S,Production Technician - WC10,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,13.45,2010-01-12,15,39,-16.0,Medium,Production / Manufacturing
+92,Tom Vande Velde,M,1986-10-01,2010-03-10,M,Production Technician - WC10,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,13.45,2010-03-10,15,39,-16.0,Medium,Production / Manufacturing
+93,Kok-Ho Loh,M,1980-04-28,2008-12-27,S,Production Supervisor - WC50,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,25.0,2008-12-27,17,45,8.0,High,Management / Supervisory
+94,Russell Hunter,M,1972-11-25,2008-12-12,M,Production Technician - WC50,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,11.0,2008-12-12,17,53,8.0,Low,Production / Manufacturing
+95,Jim Scardelis,M,1986-09-08,2008-12-19,M,Production Technician - WC50,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,11.0,2008-12-19,17,39,8.0,Low,Production / Manufacturing
+96,Elizabeth Keyser,F,1990-01-25,2009-03-02,M,Production Technician - WC50,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,11.0,2009-03-02,16,35,8.0,Low,Production / Manufacturing
+97,Mandar Samant,M,1986-03-21,2009-02-10,S,Production Technician - WC50,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,11.0,2009-02-10,16,39,8.0,Low,Production / Manufacturing
+98,Sameer Tejani,M,1978-06-26,2009-02-11,M,Production Technician - WC50,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,11.0,2009-02-11,16,47,8.0,Low,Production / Manufacturing
+99,Nuan Yu,M,1979-03-29,2009-01-06,S,Production Technician - WC50,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,11.0,2009-01-06,16,46,8.0,Low,Production / Manufacturing
+100,Lolan Song,M,1973-01-24,2009-01-12,M,Production Technician - WC50,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,11.0,2009-01-12,16,52,8.0,Low,Production / Manufacturing
+101,Houman Pournasseh,M,1971-08-30,2009-01-25,M,Production Technician - WC50,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,11.0,2009-01-25,16,54,8.0,Low,Production / Manufacturing
+102,Zheng Mu,M,1983-10-26,2008-12-03,S,Production Supervisor - WC10,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,25.0,2008-12-03,17,42,8.0,High,Management / Supervisory
+103,Ebru Ersan,M,1986-09-22,2009-12-06,S,Production Technician - WC10,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,13.45,2009-12-06,16,39,8.0,Medium,Production / Manufacturing
+104,Mary Baker,F,1986-09-19,2009-12-25,M,Production Technician - WC10,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,13.45,2009-12-25,16,39,8.0,Medium,Production / Manufacturing
+105,Kevin Homer,M,1986-09-19,2009-12-25,S,Production Technician - WC10,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,13.45,2009-12-25,16,39,8.0,Medium,Production / Manufacturing
+106,John Kane,M,1986-09-28,2010-02-27,S,Production Technician - WC10,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,13.45,2010-02-27,15,39,8.0,Medium,Production / Manufacturing
+107,Christopher Hill,M,1986-10-01,2010-02-08,M,Production Technician - WC10,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,13.45,2010-02-08,15,39,8.0,Medium,Production / Manufacturing
+108,Jinghao Liu,M,1989-02-05,2008-12-08,S,Production Supervisor - WC50,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,25.0,2008-12-08,17,36,8.0,High,Management / Supervisory
+109,Alice Ciccu,F,1978-01-26,2008-12-07,M,Production Technician - WC50,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,11.0,2008-12-07,17,47,8.0,Low,Production / Manufacturing
+110,Jun Cao,M,1979-07-06,2008-12-14,S,Production Technician - WC50,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,11.0,2008-12-14,17,46,8.0,Low,Production / Manufacturing
+111,Suroor Fatima,M,1978-02-25,2008-12-17,S,Production Technician - WC50,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,11.0,2008-12-17,17,47,8.0,Low,Production / Manufacturing
+112,John Evans,M,1978-05-31,2009-01-01,S,Production Technician - WC50,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,11.0,2009-01-01,16,47,8.0,Low,Production / Manufacturing
+113,Linda Moschell,F,1987-07-17,2008-12-25,M,Production Technician - WC50,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,11.0,2008-12-25,17,38,8.0,Low,Production / Manufacturing
+114,Mindaugas Krapauskas,M,1978-05-07,2009-01-13,M,Production Technician - WC50,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,11.0,2009-01-13,16,47,8.0,Low,Production / Manufacturing
+115,Angela Barbariol,F,1991-05-31,2009-01-20,S,Production Technician - WC50,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,11.0,2009-01-20,16,34,8.0,Low,Production / Manufacturing
+116,Michael Patten,M,1974-05-03,2009-01-31,S,Production Technician - WC50,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,11.0,2009-01-31,16,51,8.0,Low,Production / Manufacturing
+117,Chad Niswonger,M,1990-08-04,2009-02-18,M,Production Technician - WC50,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,11.0,2009-02-18,16,35,8.0,Low,Production / Manufacturing
+118,Don Hall,M,1971-06-13,2009-02-13,M,Production Technician - WC50,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,11.0,2009-02-13,16,54,8.0,Low,Production / Manufacturing
+119,Michael Entin,M,1989-06-15,2009-02-25,S,Production Technician - WC50,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,11.0,2009-02-25,16,36,8.0,Low,Production / Manufacturing
+120,Kitti Lertpiriyasuwat,F,1987-06-06,2009-03-04,S,Production Technician - WC50,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,11.0,2009-03-04,16,38,8.0,Low,Production / Manufacturing
+121,Pilar Ackerman,M,1972-09-09,2009-01-02,S,Shipping and Receiving Supervisor,Shipping and Receiving,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,19.2308,2009-01-02,16,53,8.0,High,Management / Supervisory
+122,Susan Eaton,F,1978-02-17,2008-12-07,S,Stocker,Shipping and Receiving,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,9.0,2008-12-07,17,47,8.0,Low,Production / Manufacturing
+123,Vamsi Kuppa,M,1977-03-18,2008-12-07,M,Shipping and Receiving Clerk,Shipping and Receiving,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,9.5,2008-12-07,17,48,8.0,Low,Production / Manufacturing
+124,Kim Ralls,F,1984-04-30,2008-12-26,S,Stocker,Shipping and Receiving,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,9.0,2008-12-26,17,41,-16.0,Low,Production / Manufacturing
+125,Matthias Berndt,M,1973-11-11,2009-01-20,M,Shipping and Receiving Clerk,Shipping and Receiving,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2009-01-20,16,52,8.0,Low,Production / Manufacturing
+126,Jimmy Bischoff,M,1985-05-04,2009-02-26,M,Stocker,Shipping and Receiving,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.0,2009-02-26,16,40,8.0,Low,Production / Manufacturing
+127,David Hamilton,M,1983-07-02,2009-01-03,S,Production Supervisor - WC40,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,25.0,2009-01-03,16,42,-16.0,High,Management / Supervisory
+128,Paul Komosinski,M,1980-11-13,2008-12-04,S,Production Technician - WC40,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,15.0,2008-12-04,17,45,-16.0,Medium,Production / Manufacturing
+129,Gary Yukish,M,1988-05-16,2008-12-22,S,Production Technician - WC40,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,15.0,2008-12-22,17,37,-16.0,Medium,Production / Manufacturing
+130,Rob Caron,M,1973-08-04,2009-02-13,S,Production Technician - WC40,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,15.0,2009-02-13,16,52,-16.0,Medium,Production / Manufacturing
+131,Baris Cetinok,M,1990-10-07,2009-02-15,S,Production Technician - WC40,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,15.0,2009-02-15,16,35,-16.0,Medium,Production / Manufacturing
+132,Nicole Holliday,F,1986-04-09,2009-02-22,M,Production Technician - WC40,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,15.0,2009-02-22,16,39,-16.0,Medium,Production / Manufacturing
+133,Michael Rothkugel,M,1991-01-04,2009-01-10,S,Production Technician - WC40,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,15.0,2009-01-10,16,34,-16.0,Medium,Production / Manufacturing
+134,Eric Gubbels,M,1985-01-19,2009-01-14,M,Production Supervisor - WC20,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,25.0,2009-01-14,16,40,8.0,High,Management / Supervisory
+135,Ivo Salmre,M,1982-01-03,2008-12-04,M,Production Technician - WC20,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.0,2008-12-04,17,43,8.0,Medium,Production / Manufacturing
+136,Sylvester Valdez,M,1970-11-12,2009-12-11,M,Production Technician - WC20,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.0,2009-12-11,16,55,8.0,Medium,Production / Manufacturing
+137,Anibal Sousa,F,1974-09-05,2009-02-23,S,Production Technician - WC20,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.0,2009-02-23,16,51,8.0,Medium,Production / Manufacturing
+138,Samantha Smith,F,1987-11-22,2009-02-04,M,Production Technician - WC20,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.0,2009-02-04,16,38,8.0,Medium,Production / Manufacturing
+139,Hung-Fu Ting,M,1971-10-23,2010-01-06,S,Production Technician - WC20,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.0,2010-01-06,15,54,8.0,Medium,Production / Manufacturing
+140,Prasanna Samarawickrama,M,1953-04-30,2010-01-22,M,Production Technician - WC20,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.0,2010-01-22,15,72,8.0,Medium,Production / Manufacturing
+141,Min Su,M,1974-09-10,2010-01-24,M,Production Technician - WC20,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.0,2010-01-24,15,51,8.0,Medium,Production / Manufacturing
+142,Olinda Turner,F,1970-04-04,2010-03-04,S,Production Technician - WC20,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.0,2010-03-04,15,55,8.0,Medium,Production / Manufacturing
+143,Krishna Sunkammurali,M,1971-09-05,2010-02-13,S,Production Technician - WC20,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.0,2010-02-13,15,54,8.0,Medium,Production / Manufacturing
+144,Paul Singh,M,1990-11-04,2009-01-17,M,Production Technician - WC20,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,14.0,2009-01-17,16,35,8.0,Medium,Production / Manufacturing
+145,Cynthia Randall,F,1981-08-18,2009-01-27,S,Production Supervisor - WC30,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,25.0,2009-01-27,16,44,8.0,High,Management / Supervisory
+146,Jian Shuo Wang,M,1989-06-25,2008-12-07,S,Production Technician - WC30,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,9.5,2008-12-07,17,36,8.0,Low,Production / Manufacturing
+147,Sandra Reátegui Alayo,F,1975-11-05,2008-12-26,M,Production Technician - WC30,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,9.5,2008-12-26,17,50,8.0,Low,Production / Manufacturing
+148,Jason Watters,M,1988-12-07,2009-01-14,S,Production Technician - WC30,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,9.5,2009-01-14,16,37,8.0,Low,Production / Manufacturing
+149,Andy Ruth,M,1983-10-20,2009-01-31,M,Production Technician - WC30,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,9.5,2009-01-31,16,42,8.0,Low,Production / Manufacturing
+150,Michael Vanderhyde,M,1982-09-18,2009-02-26,M,Production Technician - WC30,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,9.5,2009-02-26,16,43,8.0,Low,Production / Manufacturing
+151,Rostislav Shabalin,M,1977-09-13,2009-02-19,M,Production Technician - WC30,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,9.5,2009-02-19,16,48,8.0,Low,Production / Manufacturing
+152,Yuhong Li,M,1977-04-06,2009-02-01,M,Production Supervisor - WC20,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,25.0,2009-02-01,16,48,8.0,High,Management / Supervisory
+153,Hanying Feng,M,1974-10-16,2008-12-16,S,Production Technician - WC20,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,14.0,2008-12-16,17,51,8.0,Medium,Production / Manufacturing
+154,Raymond Sam,M,1967-03-02,2008-12-23,M,Production Technician - WC20,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,14.0,2008-12-23,17,58,8.0,Medium,Production / Manufacturing
+155,Fadi Fakhouri,M,1989-02-15,2009-01-04,S,Production Technician - WC20,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,14.0,2009-01-04,16,36,8.0,Medium,Production / Manufacturing
+156,Lane Sacksteder,M,1974-09-23,2009-01-11,M,Production Technician - WC20,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,14.0,2009-01-11,16,51,8.0,Medium,Production / Manufacturing
+157,Linda Randall,F,1977-10-05,2009-02-03,S,Production Technician - WC20,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,14.0,2009-02-03,16,48,8.0,Medium,Production / Manufacturing
+158,Shelley Dyck,F,1986-12-08,2009-03-07,S,Production Technician - WC20,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,14.0,2009-03-07,16,39,8.0,Medium,Production / Manufacturing
+159,Terrence Earls,M,1984-12-08,2009-02-16,S,Production Technician - WC20,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,14.0,2009-02-16,16,41,8.0,Medium,Production / Manufacturing
+160,Jeff Hay,M,1977-01-15,2009-01-21,M,Production Supervisor - WC45,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,25.0,2009-01-21,16,48,8.0,High,Management / Supervisory
+161,Kirk Koenigsbauer,M,1985-02-06,2008-12-15,S,Production Technician - WC45,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,10.0,2008-12-15,17,40,8.0,Low,Production / Manufacturing
+162,Laura Steele,F,1980-12-25,2009-01-03,S,Production Technician - WC45,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,10.0,2009-01-03,16,45,8.0,Low,Production / Manufacturing
+163,Alex Nayberg,M,1990-04-13,2009-02-08,M,Production Technician - WC45,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,10.0,2009-02-08,16,35,8.0,Low,Production / Manufacturing
+164,Andrew Cencini,M,1988-09-24,2009-03-06,S,Production Technician - WC45,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,10.0,2009-03-06,16,37,8.0,Low,Production / Manufacturing
+165,Chris Preston,M,1988-12-16,2009-01-22,M,Production Technician - WC45,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,10.0,2009-01-22,16,37,8.0,Low,Production / Manufacturing
+166,Jack Richins,M,1983-06-22,2009-02-21,S,Production Supervisor - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,25.0,2009-02-21,16,42,8.0,High,Management / Supervisory
+167,David Johnson,M,1979-11-02,2008-12-02,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,6.5,2008-12-02,17,46,8.0,Low,Production / Manufacturing
+167,David Johnson,M,1979-11-02,2008-12-02,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,7.25,2011-12-01,17,46,8.0,Low,Production / Manufacturing
+167,David Johnson,M,1979-11-02,2008-12-02,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2013-07-14,17,46,8.0,Low,Production / Manufacturing
+168,Garrett Young,M,1984-08-25,2008-12-07,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2008-12-07,17,41,8.0,Low,Production / Manufacturing
+169,Susan Metters,F,1983-04-02,2008-12-14,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2008-12-14,17,42,8.0,Low,Production / Manufacturing
+170,George Li,M,1977-04-16,2008-12-21,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,6.5,2008-12-21,17,48,8.0,Low,Production / Manufacturing
+170,George Li,M,1977-04-16,2008-12-21,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,7.25,2011-12-01,17,48,8.0,Low,Production / Manufacturing
+170,George Li,M,1977-04-16,2008-12-21,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2013-07-14,17,48,8.0,Low,Production / Manufacturing
+171,David Yalovsky,M,1981-08-03,2009-01-02,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2009-01-02,16,44,8.0,Low,Production / Manufacturing
+172,Marc Ingle,M,1986-10-24,2009-01-16,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,6.5,2009-01-16,16,39,8.0,Low,Production / Manufacturing
+172,Marc Ingle,M,1986-10-24,2009-01-16,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,7.25,2011-12-01,16,39,8.0,Low,Production / Manufacturing
+172,Marc Ingle,M,1986-10-24,2009-01-16,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2013-07-14,16,39,8.0,Low,Production / Manufacturing
+173,Eugene Zabokritski,M,1987-07-15,2009-01-21,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2009-01-21,16,38,8.0,Low,Production / Manufacturing
+174,Benjamin Martin,M,1986-01-05,2009-01-27,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,6.75,2009-01-27,16,39,8.0,Low,Production / Manufacturing
+174,Benjamin Martin,M,1986-01-05,2009-01-27,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,7.25,2011-12-01,16,39,8.0,Low,Production / Manufacturing
+174,Benjamin Martin,M,1986-01-05,2009-01-27,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2013-07-14,16,39,8.0,Low,Production / Manufacturing
+175,Reed Koch,M,1989-01-08,2009-02-02,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,6.5,2009-02-02,16,36,8.0,Low,Production / Manufacturing
+175,Reed Koch,M,1989-01-08,2009-02-02,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,7.25,2011-12-01,16,36,8.0,Low,Production / Manufacturing
+175,Reed Koch,M,1989-01-08,2009-02-02,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2013-07-14,16,36,8.0,Low,Production / Manufacturing
+176,David Lawrence,M,1985-09-23,2009-02-14,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,6.5,2009-02-14,16,40,8.0,Low,Production / Manufacturing
+176,David Lawrence,M,1985-09-23,2009-02-14,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,7.25,2011-12-01,16,40,8.0,Low,Production / Manufacturing
+176,David Lawrence,M,1985-09-23,2009-02-14,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2013-07-14,16,40,8.0,Low,Production / Manufacturing
+177,Russell King,M,1982-02-11,2009-02-21,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,6.5,2009-02-21,16,43,8.0,Low,Production / Manufacturing
+177,Russell King,M,1982-02-11,2009-02-21,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,7.25,2011-12-01,16,43,8.0,Low,Production / Manufacturing
+177,Russell King,M,1982-02-11,2009-02-21,M,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2013-07-14,16,43,8.0,Low,Production / Manufacturing
+178,John Frum,M,1982-03-24,2009-03-03,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,6.5,2009-03-03,16,43,8.0,Low,Production / Manufacturing
+178,John Frum,M,1982-03-24,2009-03-03,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,7.0,2011-12-01,16,43,8.0,Low,Production / Manufacturing
+178,John Frum,M,1982-03-24,2009-03-03,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2013-07-14,16,43,8.0,Low,Production / Manufacturing
+179,Jan Miksovsky,M,1974-11-15,2009-03-05,S,Production Technician - WC30,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.5,2009-03-05,16,51,8.0,Low,Production / Manufacturing
+180,Katie McAskill-White,F,1984-11-18,2009-02-20,S,Production Supervisor - WC20,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,25.0,2009-02-20,16,41,-16.0,High,Management / Supervisory
+181,Michael Hines,M,1984-11-17,2008-12-09,S,Production Technician - WC20,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,14.0,2008-12-09,17,41,-16.0,Medium,Production / Manufacturing
+182,Nitin Mirchandani,M,1986-12-01,2008-12-28,S,Production Technician - WC20,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,14.0,2008-12-28,17,39,-16.0,Medium,Production / Manufacturing
+183,Barbara Decker,F,1979-07-02,2009-01-22,M,Production Technician - WC20,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,14.0,2009-01-22,16,46,-16.0,Medium,Production / Manufacturing
+184,John Chen,M,1986-04-05,2009-02-09,M,Production Technician - WC20,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,14.0,2009-02-09,16,39,-16.0,Medium,Production / Manufacturing
+185,Stefen Hesse,M,1975-12-21,2009-02-28,S,Production Technician - WC20,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,14.0,2009-02-28,16,50,-16.0,Medium,Production / Manufacturing
+186,Shane Kim,M,1990-05-24,2009-02-08,S,Production Supervisor - WC45,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,25.0,2009-02-08,16,35,8.0,High,Management / Supervisory
+187,Yvonne McKay,F,1989-04-15,2008-12-09,M,Production Technician - WC45,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,10.0,2008-12-09,17,36,8.0,Low,Production / Manufacturing
+188,Douglas Hite,M,1985-11-24,2008-12-27,M,Production Technician - WC45,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,10.0,2008-12-27,17,40,8.0,Low,Production / Manufacturing
+189,Janeth Esteves,F,1972-07-24,2009-01-15,S,Production Technician - WC45,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,10.0,2009-01-15,16,53,8.0,Low,Production / Manufacturing
+190,Robert Rounthwaite,M,1985-02-28,2009-02-02,S,Production Technician - WC45,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,10.0,2009-02-02,16,40,8.0,Low,Production / Manufacturing
+191,Lionel Penuchot,M,1988-03-14,2009-02-26,S,Production Technician - WC45,Production,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,10.0,2009-02-26,16,37,8.0,Low,Production / Manufacturing
+192,Brenda Diaz,F,1983-02-28,2009-03-05,M,Production Supervisor - WC40,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,25.0,2009-03-05,16,42,8.0,High,Management / Supervisory
+193,Alejandro McGuel,M,1988-12-05,2008-12-06,S,Production Technician - WC40,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,15.0,2008-12-06,17,37,8.0,Medium,Production / Manufacturing
+194,Fred Northup,M,1989-06-25,2008-12-12,S,Production Technician - WC40,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,15.0,2008-12-12,17,36,8.0,Medium,Production / Manufacturing
+195,Kevin Liu,M,1985-12-25,2008-12-17,S,Production Technician - WC40,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,15.0,2008-12-17,17,40,8.0,Medium,Production / Manufacturing
+196,Shammi Mohamed,M,1980-10-04,2008-12-24,M,Production Technician - WC40,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,15.0,2008-12-24,17,45,8.0,Medium,Production / Manufacturing
+197,Rajesh Patel,M,1977-10-04,2008-12-31,M,Production Technician - WC40,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,15.0,2008-12-31,17,48,8.0,Medium,Production / Manufacturing
+198,Lorraine Nay,F,1988-11-26,2009-01-04,M,Production Technician - WC40,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,15.0,2009-01-04,16,37,8.0,Medium,Production / Manufacturing
+199,Paula Nartker,F,1987-02-10,2009-01-12,M,Production Technician - WC40,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,15.0,2009-01-12,16,38,8.0,Medium,Production / Manufacturing
+200,Frank Lee,M,1987-09-06,2009-01-17,M,Production Technician - WC40,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,15.0,2009-01-17,16,38,8.0,Medium,Production / Manufacturing
+201,Brian Lloyd,M,1977-02-10,2009-01-29,S,Production Technician - WC40,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,15.0,2009-01-29,16,48,8.0,Medium,Production / Manufacturing
+202,Tawana Nusbaum,M,1989-11-10,2009-02-05,S,Production Technician - WC40,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,15.0,2009-02-05,16,36,8.0,Medium,Production / Manufacturing
+203,Ken Myer,M,1981-05-28,2009-02-24,M,Production Technician - WC40,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,15.0,2009-02-24,16,44,8.0,Medium,Production / Manufacturing
+204,Gabe Mares,M,1988-05-10,2009-03-08,M,Production Technician - WC40,Production,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,15.0,2009-03-08,16,37,8.0,Medium,Production / Manufacturing
+205,Lori Kane,F,1980-07-18,2009-02-26,S,Production Supervisor - WC45,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,25.0,2009-02-26,16,45,-16.0,High,Management / Supervisory
+206,Stuart Munson,M,1962-09-13,2008-12-02,S,Production Technician - WC45,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,10.0,2008-12-02,17,63,-16.0,Low,Production / Manufacturing
+207,Greg Alderson,M,1970-10-18,2008-12-02,S,Production Technician - WC45,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,10.0,2008-12-02,17,55,-16.0,Low,Production / Manufacturing
+208,Scott Gode,M,1987-02-10,2009-01-08,M,Production Technician - WC45,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,10.0,2009-01-08,16,38,-16.0,Low,Production / Manufacturing
+209,Kathie Flood,F,1990-11-01,2009-01-27,M,Production Technician - WC45,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,10.0,2009-01-27,16,35,-16.0,Low,Production / Manufacturing
+210,Belinda Newman,F,1969-09-17,2009-02-20,S,Production Technician - WC45,Production,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,10.0,2009-02-20,16,56,-16.0,Low,Production / Manufacturing
+211,Hazem Abolrous,M,1977-10-26,2009-02-28,S,Quality Assurance Manager,Quality Assurance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,28.8462,2009-02-28,16,48,8.0,High,Management / Supervisory
+212,Peng Wu,M,1976-03-18,2008-12-09,M,Quality Assurance Supervisor,Quality Assurance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,21.6346,2008-12-09,17,49,8.0,High,Management / Supervisory
+213,Sootha Charncherngkha,M,1966-12-05,2010-02-23,M,Quality Assurance Technician,Quality Assurance,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,10.5769,2010-02-23,15,59,-16.0,Low,Production / Manufacturing
+214,Andreas Berglund,M,1989-03-28,2009-02-02,M,Quality Assurance Technician,Quality Assurance,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,10.5769,2009-02-02,16,36,8.0,Low,Production / Manufacturing
+215,Mark Harrington,M,1986-04-30,2009-01-15,S,Quality Assurance Technician,Quality Assurance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,10.5769,2009-01-15,16,39,8.0,Low,Production / Manufacturing
+216,Sean Alexander,M,1976-03-06,2008-12-28,S,Quality Assurance Technician,Quality Assurance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,10.5769,2008-12-28,17,49,8.0,Low,Production / Manufacturing
+217,Zainal Arifin,M,1976-01-30,2009-01-04,M,Document Control Manager,Document Control,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,17.7885,2009-01-04,16,49,8.0,High,Management / Supervisory
+218,Tengiz Kharatishvili,M,1990-04-28,2008-12-16,S,Control Specialist,Document Control,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,16.8269,2008-12-16,17,35,-16.0,High,Engineering / Technical
+219,Sean Chai,M,1987-03-12,2009-01-22,S,Document Control Assistant,Document Control,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,10.25,2009-01-22,16,38,8.0,Low,Administration / Support
+220,Karen Berge,F,1975-12-25,2009-02-09,M,Document Control Assistant,Document Control,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,10.25,2009-02-09,16,50,8.0,Low,Administration / Support
+221,Chris Norred,M,1987-05-26,2009-03-06,M,Control Specialist,Document Control,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,16.8269,2009-03-06,16,38,8.0,High,Engineering / Technical
+222,A. Scott Wright,M,1968-09-17,2008-12-12,S,Master Scheduler,Production Control,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.5577,2008-12-12,17,57,8.0,High,Administration / Support
+223,Sairaj Uddin,M,1987-12-22,2009-01-26,M,Scheduling Assistant,Production Control,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,16.0,2009-01-26,16,38,8.0,Medium,Administration / Support
+224,William Vong,M,1981-11-06,2009-01-07,M,Scheduling Assistant,Production Control,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,8.62,2008-01-08,16,44,8.0,Low,Administration / Support
+224,William Vong,M,1981-11-06,2009-01-07,M,Scheduling Assistant,Production Control,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.5,2011-08-31,16,44,8.0,Medium,Administration / Support
+224,William Vong,M,1981-11-06,2009-01-07,M,Scheduling Assistant,Production Control,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,16.0,2012-01-01,16,44,8.0,Medium,Administration / Support
+225,Alan Brewer,M,1984-03-29,2009-02-13,M,Scheduling Assistant,Production Control,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,16.0,2009-02-13,16,41,8.0,Medium,Administration / Support
+226,Brian LaMee,M,1984-08-11,2009-03-03,M,Scheduling Assistant,Production Control,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,16.0,2009-03-03,16,41,-16.0,Medium,Administration / Support
+227,Gary Altman,M,1971-02-18,2009-12-02,M,Facilities Manager,Facilities and Maintenance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,24.0385,2009-12-02,16,54,8.0,High,Management / Supervisory
+228,Christian Kleinerman,M,1976-01-18,2008-12-14,M,Maintenance Supervisor,Facilities and Maintenance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,20.4327,2008-12-14,17,49,8.0,High,Management / Supervisory
+229,Lori Penor,F,1970-07-31,2010-02-16,M,Janitor,Facilities and Maintenance,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,9.25,2010-02-16,15,55,-16.0,Low,Facilities / Maintenance
+230,Stuart Macrae,M,1971-12-17,2010-03-05,M,Janitor,Facilities and Maintenance,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,9.25,2010-03-05,15,54,8.0,Low,Facilities / Maintenance
+231,Jo Berry,F,1954-04-24,2010-03-07,M,Janitor,Facilities and Maintenance,Night,2025-10-07 23:00:00,2025-10-07 07:00:00,9.25,2010-03-07,15,71,-16.0,Low,Facilities / Maintenance
+232,Pat Coleman,M,1970-12-03,2010-01-27,S,Janitor,Facilities and Maintenance,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,9.25,2010-01-27,15,55,8.0,Low,Facilities / Maintenance
+233,Magnus Hedlund,M,1971-08-27,2009-12-21,M,Facilities Administrative Assistant,Facilities and Maintenance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.75,2009-12-21,16,54,8.0,Low,Administration / Support
+234,Laura Norman,F,1976-01-06,2009-01-31,M,Chief Financial Officer,Executive,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,39.06,2009-01-31,16,49,8.0,High,Executive / Leadership
+234,Laura Norman,F,1976-01-06,2009-01-31,M,Chief Financial Officer,Executive,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,48.5577,2011-11-14,16,49,8.0,High,Executive / Leadership
+234,Laura Norman,F,1976-01-06,2009-01-31,M,Chief Financial Officer,Executive,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,60.0962,2012-01-29,16,49,8.0,High,Executive / Leadership
+235,Paula Barreto de Mattos,F,1976-02-11,2008-12-06,M,Human Resources Manager,Human Resources,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,27.1394,2008-12-06,17,49,8.0,High,Management / Supervisory
+236,Grant Culbertson,M,1976-04-16,2009-02-25,S,Human Resources Administrative Assistant,Human Resources,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.9423,2009-02-25,16,49,8.0,Medium,Human Resources
+237,Hao Chen,M,1977-04-17,2009-02-06,S,Human Resources Administrative Assistant,Human Resources,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.9423,2009-02-06,16,48,8.0,Medium,Human Resources
+238,Vidur Luthra,M,1984-08-01,2009-01-01,S,Recruiter,Human Resources,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,18.2692,2009-01-01,16,41,8.0,High,Human Resources
+239,Mindy Martin,F,1984-11-20,2008-12-25,M,Benefits Specialist,Human Resources,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,16.5865,2008-12-25,17,41,8.0,High,Human Resources
+240,Willis Johnson,M,1978-07-18,2008-12-13,S,Recruiter,Human Resources,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,18.2692,2008-12-13,17,47,8.0,High,Human Resources
+241,David Liu,M,1983-07-08,2009-01-30,M,Accounts Manager,Finance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,34.7356,2009-01-30,16,42,8.0,High,Management / Supervisory
+242,Deborah Poe,F,1976-03-06,2008-12-18,M,Accounts Receivable Specialist,Finance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,19.0,2008-12-18,17,49,8.0,High,Finance / Accounting
+243,Candy Spoon,F,1976-02-23,2009-01-06,S,Accounts Receivable Specialist,Finance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,19.0,2009-01-06,16,49,8.0,High,Finance / Accounting
+244,Bryan Walton,M,1984-09-20,2009-01-24,S,Accounts Receivable Specialist,Finance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,19.0,2009-01-24,16,41,8.0,High,Finance / Accounting
+245,Barbara Moreland,F,1976-01-04,2009-02-18,M,Accountant,Finance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,26.4423,2009-02-18,16,49,8.0,High,Finance / Accounting
+246,Dragan Tomic,M,1977-02-14,2009-02-11,M,Accounts Payable Specialist,Finance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,19.0,2009-02-11,16,48,8.0,High,Finance / Accounting
+247,Janet Sheperdigian,F,1979-03-09,2009-03-01,M,Accounts Payable Specialist,Finance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,19.0,2009-03-01,16,46,8.0,High,Finance / Accounting
+248,Mike Seamans,M,1979-07-01,2009-03-08,S,Accountant,Finance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,26.4423,2009-03-08,16,46,8.0,High,Finance / Accounting
+249,Wendy Kahn,F,1984-10-11,2008-12-25,S,Finance Manager,Finance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,43.2692,2008-12-25,17,41,8.0,High,Management / Supervisory
+250,Sheela Word,F,1978-02-10,2011-02-25,S,Purchasing Manager,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,9.86,2011-02-21,14,47,8.0,Low,Management / Supervisory
+250,Sheela Word,F,1978-02-10,2011-02-25,S,Purchasing Manager,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,22.5,2011-07-30,14,47,8.0,High,Management / Supervisory
+250,Sheela Word,F,1978-02-10,2011-02-25,S,Purchasing Manager,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,30.0,2012-07-14,14,47,8.0,High,Management / Supervisory
+251,Mikael Sandberg,M,1984-08-17,2009-02-10,S,Buyer,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,18.2692,2009-02-10,16,41,8.0,High,Finance / Accounting
+252,Arvind Rao,M,1974-08-21,2009-02-28,M,Buyer,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,18.2692,2009-02-28,16,51,8.0,High,Finance / Accounting
+253,Linda Meisner,F,1970-11-30,2009-12-17,M,Buyer,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,18.2692,2009-12-17,16,55,8.0,High,Finance / Accounting
+254,Fukiko Ogisu,M,1970-11-24,2010-01-04,M,Buyer,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,18.2692,2010-01-04,15,55,8.0,High,Finance / Accounting
+255,Gordon Hee,M,1966-11-29,2010-01-11,M,Buyer,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,18.2692,2010-01-11,15,59,8.0,High,Finance / Accounting
+256,Frank Pellow,M,1952-05-12,2010-01-23,M,Buyer,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,18.2692,2010-01-23,15,73,8.0,High,Finance / Accounting
+257,Eric Kurjan,M,1972-09-17,2010-01-27,S,Buyer,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,18.2692,2010-01-27,15,53,8.0,High,Finance / Accounting
+258,Erin Hagens,F,1971-01-04,2010-01-31,S,Buyer,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,18.2692,2010-01-31,15,54,8.0,High,Finance / Accounting
+259,Ben Miller,M,1973-06-03,2010-03-09,M,Buyer,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,18.2692,2010-03-09,15,52,8.0,High,Finance / Accounting
+260,Annette Hill,F,1978-01-29,2010-12-06,M,Purchasing Assistant,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.75,2010-12-06,15,47,8.0,Medium,Finance / Accounting
+261,Reinout Hillmann,M,1978-01-17,2010-12-25,M,Purchasing Assistant,Purchasing,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,12.75,2010-12-25,15,47,8.0,Medium,Finance / Accounting
+262,David Barber,M,1964-06-21,2009-01-12,S,Assistant to the Chief Financial Officer,Finance,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,13.4615,2009-01-12,16,61,8.0,Medium,Executive / Leadership
+263,Jean Trenary,F,1975-12-13,2008-12-11,S,Information Services Manager,Information Services,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,50.4808,2008-12-11,17,50,8.0,High,Management / Supervisory
+264,Stephanie Conroy,F,1984-03-25,2009-02-04,S,Network Manager,Information Services,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,39.6635,2009-02-04,16,41,8.0,High,Management / Supervisory
+265,Ashvini Sharma,M,1977-03-27,2008-12-04,S,Network Administrator,Information Services,Evening,2025-10-07 15:00:00,2025-10-07 23:00:00,32.4519,2008-12-04,17,48,8.0,High,IT / Information Systems
+266,Peter Connelly,M,1980-05-28,2009-02-23,S,Network Administrator,Information Services,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,32.4519,2009-02-23,16,45,8.0,High,IT / Information Systems
+267,Karen Berg,F,1978-05-19,2009-02-16,S,Application Specialist,Information Services,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,27.4038,2009-02-16,16,47,8.0,High,IT / Information Systems
+268,Ramesh Meyyappan,M,1988-03-13,2009-02-03,S,Application Specialist,Information Services,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,27.4038,2009-02-03,16,37,8.0,High,IT / Information Systems
+269,Dan Bacon,M,1987-05-26,2009-01-11,M,Application Specialist,Information Services,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,27.4038,2009-01-11,16,38,8.0,High,IT / Information Systems
+270,François Ajenstat,M,1975-05-17,2009-01-17,S,Database Administrator,Information Services,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,38.4615,2009-01-17,16,50,8.0,High,IT / Information Systems
+271,Dan Wilson,M,1976-01-06,2009-01-22,M,Database Administrator,Information Services,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,38.4615,2009-01-22,16,49,8.0,High,IT / Information Systems
+272,Janaina Bueno,F,1985-01-30,2008-12-23,M,Application Specialist,Information Services,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,27.4038,2008-12-23,17,40,8.0,High,IT / Information Systems
+273,Brian Welcker,M,1977-06-06,2011-02-15,S,Vice President of Sales,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,72.1154,2011-02-15,14,48,8.0,High,Executive / Leadership
+274,Stephen Jiang,M,1951-10-17,2011-01-04,M,North American Sales Manager,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,48.101,2011-01-04,14,74,8.0,High,Management / Supervisory
+275,Michael Blythe,M,1968-12-25,2011-05-31,S,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2011-05-31,14,57,8.0,High,Sales / Marketing
+276,Linda Mitchell,F,1980-02-27,2011-05-31,M,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2011-05-31,14,45,8.0,High,Sales / Marketing
+277,Jillian Carson,F,1962-08-29,2011-05-31,S,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2011-05-31,14,63,8.0,High,Sales / Marketing
+278,Garrett Vargas,M,1975-02-04,2011-05-31,M,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2011-05-31,14,50,8.0,High,Sales / Marketing
+279,Tsvi Reiter,M,1974-01-18,2011-05-31,M,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2011-05-31,14,51,8.0,High,Sales / Marketing
+280,Pamela Ansman-Wolfe,F,1974-12-06,2011-05-31,S,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2011-05-31,14,51,8.0,High,Sales / Marketing
+281,Shu Ito,M,1968-03-09,2011-05-31,M,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2011-05-31,14,57,8.0,High,Sales / Marketing
+282,José Saraiva,M,1963-12-11,2011-05-31,M,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2011-05-31,14,62,8.0,High,Sales / Marketing
+283,David Campbell,M,1974-02-11,2011-05-31,S,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2011-05-31,14,51,8.0,High,Sales / Marketing
+284,Tete Mensa-Annan,M,1978-01-05,2012-09-30,M,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2012-09-30,13,47,8.0,High,Sales / Marketing
+285,Syed Abbas,M,1975-01-11,2013-03-14,M,Pacific Sales Manager,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,48.101,2013-03-14,12,50,8.0,High,Management / Supervisory
+286,Lynn Tsoflias,F,1977-02-14,2013-05-30,S,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2013-05-30,12,48,8.0,High,Sales / Marketing
+287,Amy Alberts,F,1957-09-20,2012-04-16,M,European Sales Manager,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,48.101,2012-04-16,13,68,8.0,High,Management / Supervisory
+288,Rachel Valdez,F,1975-07-09,2013-05-30,S,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2013-05-30,12,50,8.0,High,Sales / Marketing
+289,Jae Pak,F,1968-03-17,2012-05-30,M,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2012-05-30,13,57,8.0,High,Sales / Marketing
+290,Ranjit Varkey Chudukatil,M,1975-09-30,2012-05-30,S,Sales Representative,Sales,Day,2025-10-07 07:00:00,2025-10-07 15:00:00,23.0769,2012-05-30,13,50,8.0,High,Sales / Marketing
